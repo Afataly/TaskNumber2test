@@ -1,0 +1,5 @@
+[*.py]
+indent_size = space
+indent_size = 4
+max_line_length = 76
+insert_final_newline = true 
